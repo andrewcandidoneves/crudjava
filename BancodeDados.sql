@@ -89,7 +89,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`iduser`, `usuario`, `fone`, `login`, `senha`) VALUES
-(1, 'Lorena Guzella', '1199999-9999', 'Lorena', '1234');
+(1, 'Andrew Candido Neves', '11941947386', 'Andrew', '1234');
 
 --
 -- Indexes for dumped tables
